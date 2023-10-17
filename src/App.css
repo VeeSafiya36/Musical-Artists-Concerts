@@ -1,0 +1,53 @@
+* {
+background-color: black;
+margin: 0px;
+padding:0px;
+color:aliceblue;
+justify-content: center;
+}
+
+.page {
+    margin: 10px;
+    justify-content: center;
+}
+
+.ArtistCard {
+    text-align: center;
+    border: solid gold;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Heading {
+    text-align: center;
+}
+
+.form1 {
+    justify-content: center;
+    border: solid;
+    text-align: center;
+}
+
+.form2 {
+    justify-content: center;
+    border: solid;
+    text-align: center;
+}
+
+button {
+    color: gold
+}
+
+Footer {
+    color:gold
+}
+
+table {
+    justify-content: center;
+}
+
+
+
+
+
